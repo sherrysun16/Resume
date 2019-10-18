@@ -25,13 +25,13 @@
 -   Project 2 - IoT streaming processing: (1) Stored raw data and intermediate results in Kafka; (2) detected sensors’ anomaly in stream processing.
     
 
-### Data Software Dev Engineer, NetEase, Inc. Hangzhou, China
+### Software Dev Engineer, NetEase Inc. Hangzhou, China
 07/2014 - 09/2015
 
 -   Full-stack development for the internal anti-spam Web-app tool. Implemented an integration of multiple anti-spam procedures including detection, verification and feature-submission via REST to different services. Improved the UX for productivity.
     
 
-### Data Analyst , NetEase, Inc. Hangzhou, China
+### Data Analyst, NetEase Inc. Hangzhou, China
  07/2012 - 07/2014
 
 -   Analyzed data to extract and verify spam-feature for 700+ million email users. Verification analysis is critical as it impacted tremendous emails per day.
