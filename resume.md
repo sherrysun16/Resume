@@ -11,8 +11,6 @@
 
 -   Programming Skills: Java, C#, ASP.NET MVC, Spring Boot, Mybatis, Web API, JavaScript, jQuery, HTML, CSS, Bootstrap, Algorithms, Data structure, OO design.
 
--   Have been learning various full-stack programming skills.
-
 ## EXPERIENCE
 
 ### Certificate in Big Data Technologies, Univ. of Washington  
