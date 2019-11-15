@@ -7,9 +7,9 @@
 
 -   3 years industry experience in Data analysis and software development.
 
--   Data Skills: Kafka, Spark, Azure(VM, Docker), NIFI, MongoDB, MySQL, Scala, Python, Jupyter notebook, Excel, Power BI, Statistical programing, Regex.
+-   Data Skills: Kafka, Spark, Azure(VM, Docker), NIFI, MongoDB, MySQL, NoSQL, Scala, Python, Jupyter notebook, Excel, Power BI, Statistical programing, Regex.
 
--   Programming Skills: Java, C#, ASP.NET MVC, Spring Boot, Mybatis, Web API, JavaScript, jQuery, CSS, Algorithms, Data structure, OO design.
+-   Programming Skills: Java, C#, ASP.NET MVC, Spring Boot, Mybatis, Web API, JavaScript, jQuery, HTML, CSS, Bootstrap, Algorithms, Data structure, OO design.
 
 -   Have been learning various full-stack programming skills.
 
@@ -44,7 +44,8 @@
 ### Software Engineer Intern, Alibaba, Hangzhou, China 
 06/2010 - 09/2010
 
--   UI development on jiaoyu.taobao.com.
+-   Analyzed crawled pages from partner websites, and implemented regular expressions to transform them into adaptable formats for our pages. 
+-   Identified new requirements on front-end while adapting new formats. Developed HTML & CSS to revamp UI.
     
 
   
