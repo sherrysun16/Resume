@@ -26,15 +26,18 @@
 ### Software Dev Engineer, NetEase Inc. Hangzhou, China
 07/2014 - 09/2015
 
--   Full-stack development for the internal anti-spam Web-app tool. Implemented an integration of multiple anti-spam procedures including detection, verification and feature-submission via REST to different services. Improved the UX for productivity.
-    
+-   Full-stack development for the internal anti-spam Web-app tool. 
+-   Consolidated multiple anti-spam procedures (i.e, detection, verification and feature-submission) by the development of a centralized service that communicated with respective remote services. Collaborated with respective teams for API integrations.
+-   Based on the centralized service, developed a consolidated front-end experience to improve internal productivity. 
 
+ 
 ### Data Analyst, NetEase Inc. Hangzhou, China
  07/2012 - 07/2014
 
 -   Analyzed data to extract and verify spam-feature for 700+ million email users. Verification analysis is critical as it impacted tremendous emails per day.
     
 -   Responsible for analyzation in spam-receipt domain (one of the hottest spamming topics).
+-   Provided weekly reports for spam trend & predication and misjudgement.
     
 -   Participated in redesign of engineering tools and automation strategies.
     
