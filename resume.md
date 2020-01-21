@@ -9,9 +9,15 @@
 
 -   Data Skills: Kafka, Spark, Azure(VM, Docker), NIFI, MongoDB, MySQL, NoSQL, Scala, Python, Jupyter notebook, Excel, Power BI, Statistical programing, Regex.
 
--   Programming Skills: Java, C#, ASP.NET MVC, Spring Boot, Mybatis, Web API, JavaScript, jQuery, HTML, CSS, Bootstrap, Algorithms, Data structure, OO design.
+-   Programming Skills: Java, C#, ASP.NET MVC, Django,Web API, JavaScript, jQuery, HTML, CSS, Bootstrap, Algorithms, Data structure, OO design.
 
 ## EXPERIENCE
+### Coding Dojo BootCamp, Full Stack Development, Bellevue,WA
+12/2019 - Present
+
+-   Immersive software dev program with 1200+ hours of hands on full-stack experience.
+-   Learning and developing web app projects using Python, Node.js, C#, Git.
+
 
 ### Certificate in Big Data Technologies, Univ. of Washington  
 09/2018 - 05/2019
